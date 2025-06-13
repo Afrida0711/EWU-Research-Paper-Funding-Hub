@@ -7,13 +7,16 @@ This system replaces the paper-based workflow with a digital portal using Larave
 - Multi-stage approval workflow
 - Role-based dashboards
 - Real-time status tracking
+  
 **Key Features**
+  
 Student:
 - Register/login
 - Submit applications
 - Upload/download documents
 - Track status
 - View guidelines
+  
 Admin:
 - View/manage students
 - Verify documents & eligibility
