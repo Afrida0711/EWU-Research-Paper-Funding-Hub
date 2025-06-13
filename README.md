@@ -88,7 +88,8 @@ DB_PASSWORD=
 6.**Run migrations**: php artisan migrate
 7. **Start the Laravel server**: php artisan serve
 8. **Access the system in your browser**: http://127.0.0.1:8000
-🔐 Default Login Credentials
+   
+**Default Login Credentials**
 Admin	: Email: ewu.research.admin@ewu.edu	Password: EWU@Admin#Secure123
 ProVC: Email:	ewu.research.provc@ewu.edu	Password :EWU@ProVC#Secure456
 VC: Email:	ewu.research.vc@ewu.edu  Password:	EWU@VC#Secure789
