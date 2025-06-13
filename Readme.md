@@ -21,23 +21,30 @@ Admin:
 - View/manage students
 - Verify documents & eligibility
 - Forward to Pro-VC
+
 Pro-VC:
 - Review or forward to VC
+  
 VC:
 - Final approve/reject
-Security:
+
+**Security**:
+
 - Role-based access
 - Laravel CSRF/session protection
 - Encrypted passwords
 **Technology Stack**
+  
 - Laravel (PHP)
 - HTML, CSS, JS, Bootstrap
 - Font Awesome
 - MySQL + phpMyAdmin
 - XAMPP (Apache, MySQL, PHP)
+  
 **Installation & Setup**
 Requirements:
 - XAMPP, Composer, PHP >= 8.1, VS Code
+  
 Steps:
 1. Move project to C:/xampp/htdocs/ewu-research-funding
 2. Open the folder in VS Code terminal and run:
@@ -48,17 +55,18 @@ Steps:
 4. Update `.env`:
  DB_DATABASE=ewu_research_funding
  DB_USERNAME=root
-README - EWU Research Paper Funding Hub
  DB_PASSWORD=
 5. Run migration:
  php artisan migrate
 6. Start server:
  php artisan serve
 7. Visit: http://127.0.0.1:8000
+   
 **Default Login Credentials**
 - Admin: ewu.research.admin@ewu.edu / EWU@Admin#Secure123
 - ProVC: ewu.research.provc@ewu.edu / EWU@ProVC#Secure456
 - VC: ewu.research.vc@ewu.edu / EWU@VC#Secure789
+  
 **Limitations**
 - No email/SMS alerts
 - No password reset
