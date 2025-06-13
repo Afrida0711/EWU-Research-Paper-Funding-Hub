@@ -58,9 +58,9 @@ The traditional paper-based funding application process at EWU was time-consumin
 
 ---
 
-## ⚙️ Installation & Setup (Using VS Code + XAMPP)
+##  Installation & Setup (Using VS Code + XAMPP)
 
-### 🔧 Requirements
+###  Requirements
 
 - XAMPP (Apache & MySQL)
 - Composer installed
@@ -69,7 +69,7 @@ The traditional paper-based funding application process at EWU was time-consumin
 
 ---
 
-### 🧪 Steps to Run
+###  Steps to Run
 
 1. **Move the project** to: C:\xampp\htdocs\ewu-research-funding
 
@@ -90,21 +90,16 @@ DB_PASSWORD=
 8. **Access the system in your browser**: http://127.0.0.1:8000
    
 **Default Login Credentials** 
-**Admin**	: Email: ewu.research.admin@ewu.edu	Password: EWU@Admin#Secure123
-**ProVC**: Email:	ewu.research.provc@ewu.edu	Password :EWU@ProVC#Secure456
-**VC**: Email:	ewu.research.vc@ewu.edu  Password:	EWU@VC#Secure789
+1. Admin	: Email: ewu.research.admin@ewu.edu	Password: EWU@Admin#Secure123
+2. ProVC: Email:	ewu.research.provc@ewu.edu	Password :EWU@ProVC#Secure456
+3. VC: Email:	ewu.research.vc@ewu.edu  Password:	EWU@VC#Secure789
 *Students can register manually using the registration page.*
 **Limitations**
 1. No email or SMS notifications
-
 2. No password reset/recovery feature
-
 3. No analytics or reporting dashboard
-
 4. Localhost-only deployment
-
 5. Limited file type/size validation
-
 *Developed by Afrida Tasnim*
 
 Supervised by
