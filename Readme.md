@@ -73,10 +73,12 @@ Steps:
 - No password reset
 - No analytics
 - Localhost only
+- 
 *Developed by*
 - Afrida Tasnim 
 
 Supervised by
 Md. Arman Hossain, Lecturer, Dept. of CSE, EWU
+
 License
 Project for CSE479: Web Programming at East West University.
