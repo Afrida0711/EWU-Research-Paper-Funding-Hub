@@ -35,7 +35,7 @@ The traditional paper-based funding application process at EWU was time-consumin
 
 ### 🎓 VC
 - Give final approval or rejection
-- Status updates reflected to students
+- Status updates were reflected to students
 
 ### 🔐 Security
 - Role-based access (middleware)
@@ -89,10 +89,10 @@ DB_PASSWORD=
 7. **Start the Laravel server**: php artisan serve
 8. **Access the system in your browser**: http://127.0.0.1:8000
    
-**Default Login Credentials**
-Admin	: Email: ewu.research.admin@ewu.edu	Password: EWU@Admin#Secure123
-ProVC: Email:	ewu.research.provc@ewu.edu	Password :EWU@ProVC#Secure456
-VC: Email:	ewu.research.vc@ewu.edu  Password:	EWU@VC#Secure789
+**Default Login Credentials** 
+**Admin**	: Email: ewu.research.admin@ewu.edu	Password: EWU@Admin#Secure123
+**ProVC**: Email:	ewu.research.provc@ewu.edu	Password :EWU@ProVC#Secure456
+**VC**: Email:	ewu.research.vc@ewu.edu  Password:	EWU@VC#Secure789
 *Students can register manually using the registration page.*
 **Limitations**
 1. No email or SMS notifications
