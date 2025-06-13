@@ -101,6 +101,8 @@ DB_PASSWORD=
 3. No analytics or reporting dashboard
 4. Localhost-only deployment
 5. Limited file type/size validation
+
+   
 *Developed by Afrida Tasnim*
 
 Supervised by
