@@ -94,6 +94,7 @@ DB_PASSWORD=
 2. ProVC: Email:	ewu.research.provc@ewu.edu	Password :EWU@ProVC#Secure456
 3. VC: Email:	ewu.research.vc@ewu.edu  Password:	EWU@VC#Secure789
 *Students can register manually using the registration page.*
+
 **Limitations**
 1. No email or SMS notifications
 2. No password reset/recovery feature
