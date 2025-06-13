@@ -84,9 +84,10 @@ License
 Project for CSE479: Web Programming at East West University.
 
 **ScreenShot**
-Students 
 
 ![Image](https://github.com/user-attachments/assets/e5ca118c-0f73-4f7b-8fb9-b440f2514cf4)
+
+Students: 
 
 ![Image](https://github.com/user-attachments/assets/21c2e7cf-847d-4480-afcf-7200b0c59818)
 
@@ -101,3 +102,23 @@ Students
 ![Image](https://github.com/user-attachments/assets/6069fef9-bdf7-48c2-943d-cacc5cddcf18)
 
 ![Image](https://github.com/user-attachments/assets/6992c431-d904-4c32-ad96-2a268628c190)
+
+Admin : 
+
+![Image](https://github.com/user-attachments/assets/9a7d3f55-2336-4738-8ce5-59fcced3fc9e)
+
+![Image](https://github.com/user-attachments/assets/94321600-6fae-44e3-8a8b-23fd786e9a70)
+
+![Image](https://github.com/user-attachments/assets/5027e36e-9925-4bc7-8e94-41916405a516)
+
+![Image](https://github.com/user-attachments/assets/d6a849eb-e76a-401c-ac4d-49136f16bb22)
+
+![Image](https://github.com/user-attachments/assets/12660d4f-5d77-43b4-8faa-41697764b788)
+
+![Image](https://github.com/user-attachments/assets/b94d14c0-e4f5-4b1f-83f6-80077aef60eb)
+
+![Image](https://github.com/user-attachments/assets/ff384108-a28f-407d-9557-c9c031b6487d)
+
+![Image](https://github.com/user-attachments/assets/d8b2d6e1-48ea-40c1-86f2-50d942b2beee)
+
+
